@@ -1,14 +1,26 @@
 <!-- 🌸 Samruddhi Wasnik – Balanced Chic & Fun GitHub Profile -->
 
-<!-- 💖 animated greeting -->
+<!-- 🎀 Opening aesthetic gif -->
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGF2dncwZDI4cDQ1bnp2cWVrMzMzbjZtd2g2aDFkeGYxZThrZjY0NiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/200.webp" width="180" alt="girl saying hi with laptop"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTh1a2wwODB3N2U3eDduYzJ5ZXRrbHphNGRuMDNtdHB5M245cXBjNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.webp" width="300" alt="girl working on laptop aesthetic"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Plus+Jakarta+Sans&size=36&duration=3500&pause=800&color=E8A0BF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sam+💻💄;Tech+%7C+Analytics+%7C+Fashion-Tech;Building+calm,+useful+software" />
+<!-- 🌸 Handwritten intro -->
+<h1 align="center" style="font-family:'Brush Script MT', cursive; font-size:42px; color:#F4BBD0;">
+  Hi, I'm Sam 💖
 </h1>
 
+<!-- ✨ Typing intro paragraph -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Plus+Jakarta+Sans&size=22&duration=4500&pause=800&color=E8A0BF&center=true&vCenter=true&width=800&lines=Data-driven+%7C+Design-minded+%7C+Always+curious;Turning+raw+data+into+stories+that+matter;Bridging+tech,+analytics,+and+fashion-tech+to+create+impact" />
+</p>
+
+<!-- 🥣 I eat data for breakfast gif -->
+<p align="center">
+  <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="220" alt="I eat data for breakfast gif"/>
+</p>
+
+<!-- 🌐 Contact icons -->
 <p align="center">
   <a href="mailto:samruddhi2204@gmail.com"><img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=minutemailer&logoColor=000"/></a>
   <a href="https://www.linkedin.com/in/samruddhi-wasnik/"><img src="https://img.shields.io/badge/LinkedIn-A6C1EE?style=for-the-badge&logo=linkedin&logoColor=fff"/></a>
@@ -27,23 +39,44 @@
 
 <p align="center"><b>Analytics by day, art by heart — fashion, visuals, stories.</b></p>
 
+<!-- 😎 Minion Team Lead gif -->
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1zY29lbWppczM5bzRxY2JuMHF4ZzAyM2MxamxyNTZhd2pzbDM5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8VTGrBPjwo7GnIGiE/giphy.gif" width="220" alt="minion team lead"/>
+</p>
+
 <p align="center"><b>Forever curious — learning, building, refining.</b></p>
 
+<!-- ⚽ Football gif -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9rNzU3NjFpYWVtZjFtZDJjcmFzYWZ4eDE5NXZ2bWt2ZXdqNnN6NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9HbR5gGJifwDMJB8BH/200w.webp" width="150">
+  <img src="https://media.giphy.com/media/rpVYcs1rWB6bFIsdCb/giphy.gif" width="200" alt="football teamwork gif"/>
+</p>
+
+<!-- 🔥 OnePlus RAM gif -->
+<p align="center">
+  <img src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif" width="300" alt="RAM speed gif"/>
 </p>
 
 ---
 
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
-<br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,postgres,mysql,docker,git,azure,aws&perline=10" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=pandas,streamlit,figma,vscode,github,jira,excel,powerbi" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,postgres,mysql,docker,git,azure&perline=9" />
+<br>
+<img src="https://skillicons.dev/icons?i=aws,figma,vscode,github,pandas,streamlit,jira,excel,powerbi&perline=9" />
 </div>
 
+<!-- 📝 To-do Party gif -->
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cG81YnZxYzl3bDZ2bXo4cjZ5cGt5aDRvY2l2YXpvamp5ZzNzNXZ6MSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Y0b2MpUTfnrUa3jIM7/giphy.webp" width="220" alt="to-do list party gif"/>
+</p>
+
 ---
+
+<!-- 🐭 Tom & Jerry chaos gif -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDE4b3o4cXR4ZWdsN2hrMzR0dDNyaGpvOWdkMzBybjY4ZGpicW02dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNpgrhRUmhJhDQCceA/giphy.gif" width="250" alt="funny tom and jerry gif"/>
+</p>
 
 ### 🪄 Featured Projects
 - **UGenome Pipelines & Reports** — ETL + QC + patient-safe analytics for genomics  
@@ -60,11 +93,7 @@
 
 ---
 
-### ☕ Say Hi
+<!-- 🚫 404 gif ending -->
 <p align="center">
-  <a href="mailto:samruddhi2204@gmail.com"><img src="https://img.shields.io/badge/Email_me-FFC0CB?style=for-the-badge&logo=minutemailer&logoColor=000"/></a>
-</p>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWF0emEwdmFzZjJ2dG1lMHZmNWhieWJ6MWs2NDA0OWs4b2p6aWI5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/200w.webp" width="260" alt="cute outro aesthetic"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvZTE3ZGU5dnN4NWJtNTV2MHh1YWVrdHA1c2FmMjUzdzRldDEyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8L0Pky6C83SzkzU55a/giphy.gif" width="260" alt="404 error funny gif"/>
 </p>
