@@ -1,36 +1,36 @@
-<!-- Banner (replace with your own in assets/banner.gif) -->
+<!-- top banner — upload your own to assets/banner.gif or assets/banner.png -->
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Tech · Analytics · SWE" />
+  <img src="assets/banner.gif" width="100%" alt="hi, i'm samruddhi — tech · analytics · fashion-tech"/>
 </p>
 
-<h1 align="center">Hi, I'm Samruddhi 👋</h1>
+<h1 align="center">hey, i'm samruddhi 👋</h1>
 
 <p align="center">
-  <em>Tech professional & data-driven problem solver — experienced across healthcare & e-commerce analytics, passionate about fashion-tech and software engineering.</em>
+  <em>tech professional + analyst who loves turning messy data into calm decisions. healthcare and e-commerce are my home turf. fashion-tech keeps me curious. building more software, one clean commit at a time.</em>
 </p>
 
 <p align="center">
-  <a href="mailto:samruddhi2204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:samruddhi2204@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/samruddhi-wasnik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/samruddhi2204"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=samruddhi2204&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
-### 💡 What I Work On
+### what i’m building
+🩺 healthcare analytics (rev-cycle KPIs, billing visibility, better cash-flow signals)  
+🛍️ e-commerce insights (segments, churn, demand patterns)  
+🧵 fashion-tech curiosity (consumer taste + data storytelling)  
+💻 shipping small tools (Streamlit apps, tidy APIs, light automation on Azure)
 
-I bring structure to chaos through data and design. Recently:
-
-- **Healthcare Analytics** — revenue-cycle KPIs, billing process optimization, and dashboards that improve visibility and cash-flow forecasting.  
-- **E-commerce Insights** — customer segmentation, churn analysis, and demand forecasting using SQL + Power BI.  
-- **Fashion-Tech Curiosity** — exploring how consumer analytics and data storytelling can shape product and trend decisions.  
-- **Software Engineering** — Streamlit dashboards, CI/CD automation on Azure, and building backend logic for data-driven apps.  
+<!-- optional cute/gif divider -->
+<p align="center">
+  <img src="assets/pixel-hearts.gif" width="360" alt="divider"/>
+</p>
 
 ---
 
-### 🛠️ Core Stack
-
+### core stack
 <p>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
@@ -44,53 +44,34 @@ I bring structure to chaos through data and design. Recently:
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
-> Also: Power BI · DAX · Streamlit · Excel · Jira · Six Sigma.
+> also: Power BI · DAX · Streamlit · Excel · Jira · Six Sigma
 
 ---
 
-### 🌟 Highlights
+### featured projects
 
-- Built production-ready **Power BI dashboards** that improved financial reporting accuracy and reduced manual effort.  
-- Automated billing & KPI pipelines using **Python, SQL, and Azure Functions**.  
-- Created **Streamlit apps** to simplify analytics delivery for business users.  
-- Deployed containerized solutions via **Docker + Azure App Service**.  
-
----
-
-### 📂 Featured Projects
-
-> Replace repo names/links once ready.
-
-- **UGenome Pipelines & Reports** — ETL + QC + patient-safe analytics for genomics.  
+- **UGenome Pipelines & Reports** — ETL + QC + patient-safe analytics for genomics  
   `Python · Pandas · SQL · Azure DevOps · Streamlit`  
-  [github.com/samruddhi2204/ugenome-analytics](https://github.com/samruddhi2204/ugenome-analytics)
+  https://github.com/samruddhi2204/ugenome-analytics
 
-- **Retail Customer Segmentation** — end-to-end clustering and CLV views for marketing ops.  
+- **Retail Customer Segmentation** — end-to-end clustering and CLV views for marketing ops  
   `Python · scikit-learn · Power BI`  
-  [github.com/samruddhi2204/retail-segmentation](https://github.com/samruddhi2204/retail-segmentation)
+  https://github.com/samruddhi2204/retail-segmentation
 
-- **Ops Dashboard as a Service** — multi-tenant Streamlit app with role-based dashboards.  
+- **Ops Dashboard as a Service** — multi-tenant Streamlit app with role-based dashboards  
   `Streamlit · FastAPI · PostgreSQL · Docker · Azure`  
-  [github.com/samruddhi2204/ops-dash](https://github.com/samruddhi2204/ops-dash)
+  https://github.com/samruddhi2204/ops-dash
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samruddhi2204&show_icons=true&count_private=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhi2204&layout=compact&langs_count=8&theme=transparent" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=samruddhi2204&theme=transparent" />
-</p>
-
----
-
-### ☕ Say Hi
-
+### say hi
 <p align="center">
   <a href="mailto:samruddhi2204@gmail.com"><img src="https://img.shields.io/badge/Email_me-111827?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
-  <a href="https://www.buymeacoffee.com/samruddhi2204"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+  <!-- optional tip jar: uncomment if you want it -->
+  <!-- <a href="https://www.buymeacoffee.com/samruddhi2204"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a> -->
+</p>
+
+<!-- cute outro gif -->
+<p align="center">
+  <img src="assets/cat-typing.gif" width="320" alt="shipping quietly"/>
 </p>
