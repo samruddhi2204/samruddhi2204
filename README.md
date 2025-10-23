@@ -59,57 +59,51 @@
 
 ---
 
+<!-- 🚀 Projects -->
 <h2 align="left">🚀 Projects</h2>
 
-<!-- SMART HEALTH ANALYTICS -->
-<table align="center" width="100%" style="border:none;">
+<!-- Shared CSS inline fix for equal height -->
+<table align="center" width="100%" style="border-collapse:collapse;table-layout:fixed;margin-bottom:0;">
+
+<!-- SMART HEALTH -->
 <tr>
-<td width="70%" valign="top">
-
-<b>🩺 Smart Health Analytics</b>  
+<td width="70%" valign="middle" style="vertical-align:middle;">
+<b>🩺 Smart Health Analytics</b><br>
 ETL + QC + patient-safe analytics for healthcare intelligence  
-<code>Python · Pandas · SQL · Azure DevOps · Streamlit</code>  
+<code>Python · Pandas · SQL · Azure DevOps · Streamlit</code><br>
 <a href="https://github.com/samruddhi2204/ugenome-analytics">github.com/samruddhi2204/ugenome-analytics</a>
-
 </td>
-<td width="30%" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzg1bTB5cWt2MGx1cTlndXZhanZ5OTI3cTl3dzBiMzd6dnZseWttdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O5YEgIWPd2TlR6NHfg/100.webp" width="220" alt="smart health analytics gif"/>
+<td width="30%" align="center" valign="middle">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzg1bTB5cWt2MGx1cTlndXZhanZ5OTI3cTl3dzBiMzd6dnZseWttdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O5YEgIWPd2TlR6NHfg/100.webp" height="140" style="border-radius:10px;display:block;margin:auto;" alt="smart health analytics gif"/>
 </td>
 </tr>
-</table>
 
 <!-- RETAIL -->
-<table align="center" width="100%" style="border:none;">
 <tr>
-<td width="70%" valign="top">
-
-<b>🛍 Retail Customer Segmentation</b>  
+<td width="70%" valign="middle" style="vertical-align:middle;padding-top:20px;">
+<b>🛍 Retail Customer Segmentation</b><br>
 End-to-end clustering and CLV models for marketing analytics  
-<code>Python · scikit-learn · Power BI</code>  
+<code>Python · scikit-learn · Power BI</code><br>
 <a href="https://github.com/samruddhi2204/retail-segmentation">github.com/samruddhi2204/retail-segmentation</a>
-
 </td>
-<td width="30%" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWN6dWc1NXM3bmNjNG9zZHBydmlhMGtzOHRzcDJlcG5rbXJnZGp3OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KbV4cctCmFfK8/giphy.webp" width="220" alt="retail gif"/>
+<td width="30%" align="center" valign="middle">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWN6dWc1NXM3bmNjNG9zZHBydmlhMGtzOHRzcDJlcG5rbXJnZGp3OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KbV4cctCmFfK8/giphy.webp" height="140" style="border-radius:10px;display:block;margin:auto;" alt="retail gif"/>
 </td>
 </tr>
-</table>
 
 <!-- OPS -->
-<table align="center" width="100%" style="border:none;">
 <tr>
-<td width="70%" valign="top">
-
-<b>☁️ Ops Dashboard as a Service</b>  
+<td width="70%" valign="middle" style="vertical-align:middle;padding-top:20px;">
+<b>☁️ Ops Dashboard as a Service</b><br>
 Multi-tenant Streamlit app with automated role-based dashboards  
-<code>Streamlit · FastAPI · PostgreSQL · Docker · Azure</code>  
+<code>Streamlit · FastAPI · PostgreSQL · Docker · Azure</code><br>
 <a href="https://github.com/samruddhi2204/ops-dash">github.com/samruddhi2204/ops-dash</a>
-
 </td>
-<td width="30%" align="center">
-  <img src="https://media.giphy.com/media/5la8PeBorczY1XUPjn/giphy.gif" width="220" alt="ops dashboard gif"/>
+<td width="30%" align="center" valign="middle">
+  <img src="https://media.giphy.com/media/5la8PeBorczY1XUPjn/giphy.gif" height="140" style="border-radius:10px;display:block;margin:auto;" alt="ops dashboard gif"/>
 </td>
 </tr>
+
 </table>
 
 ---
