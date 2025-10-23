@@ -1,15 +1,18 @@
-<!-- 🌸 Samruddhi Wasnik – Final Polished GitHub README -->
+<!-- 🌸 Samruddhi Wasnik – Final Soft Blush Edition GitHub README -->
 
 <div align="center">
 
-<table>
+<table width="100%" style="border:none;">
 <tr>
-<td width="40%" align="left">
+<td width="40%" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTh1a2wwODB3N2U3eDduYzJ5ZXRrbHphNGRuMDNtdHB5M245cXBjNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.webp" width="260" alt="girl working laptop aesthetic"/>
 </td>
-<td width="60%" align="center">
-  <h1 style="font-family:'Brush Script MT',cursive;font-size:40px;color:#F4BBD0;">Hello, I'm Sam</h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Plus+Jakarta+Sans&size=22&duration=4500&pause=800&color=E8A0BF&center=false&vCenter=true&width=680&lines=Data-driven+%7C+Design-minded+%7C+Always+curious;Turning+raw+data+into+stories+that+matter;Bridging+tech,+analytics,+and+fashion-tech+to+create+impact" />
+
+<td width="60%" align="center" valign="middle">
+  <h1 style="font-family:'Brush Script MT',cursive;font-size:50px;color:#F8BBD0;text-align:center;margin:0;text-shadow:0 0 15px rgba(248,187,208,0.9),0 0 25px rgba(248,187,208,0.6);">
+    Hello, I'm Sam
+  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Plus+Jakarta+Sans&size=24&duration=4500&pause=800&color=E8A0BF&center=true&vCenter=true&width=720&lines=Data-driven+%7C+Design-minded+%7C+Always+curious;Turning+raw+data+into+stories+that+matter;Bridging+tech,+analytics,+and+fashion-tech+to+create+impact" />
 </td>
 </tr>
 </table>
@@ -34,21 +37,22 @@
 
 ---
 
-<h2 align="left">⚒️ Languages · Frameworks · Tools</h2>
+<h2 align="center">🛠 Languages • Frameworks • Tools 🛠</h2>
 
 <table align="center" style="border:none;">
 <tr>
-<td width="70%" align="left">
+<td width="70%" align="center" valign="middle">
 
-<!-- ✅ Full stack: 24 tools, 4 rows × 6 icons -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express&perline=6" /><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,docker,git&perline=6" /><br>
-<img src="https://skillicons.dev/icons?i=github,streamlit,flask,fastapi,pandas,html&perline=6" /><br>
-<img src="https://skillicons.dev/icons?i=css,figma,vscode,powerbi,excel,jira&perline=6" />
+<!-- ✅ Clean 6-per-row icon layout -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express&perline=6" width="440"/><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,docker,git&perline=6" width="440"/><br>
+<img src="https://skillicons.dev/icons?i=github,streamlit,flask,fastapi,pandas,html&perline=6" width="440"/><br>
+<img src="https://skillicons.dev/icons?i=css,figma,vscode,powerbi,excel,jira&perline=6" width="440"/>
 
 </td>
-<td width="30%" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cG81YnZxYzl3bDZ2bXo4cjZ5cGt5aDRvY2l2YXpvamp5ZzNzNXZ6MSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Y0b2MpUTfnrUa3jIM7/giphy.webp" width="200" alt="to-do list party gif"/>
+
+<td width="30%" align="center" valign="middle">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cG81YnZxYzl3bDZ2bXo4cjZ5cGt5aDRvY2l2YXpvamp5ZzNzNXZ6MSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Y0b2MpUTfnrUa3jIM7/giphy.webp" width="220" alt="to-do list gif"/>
 </td>
 </tr>
 </table>
@@ -57,19 +61,19 @@
 
 <h2 align="left">🚀 Projects</h2>
 
-<!-- UGENOME -->
+<!-- SMART HEALTH ANALYTICS -->
 <table align="center" width="100%" style="border:none;">
 <tr>
 <td width="70%" valign="top">
 
-<b>🧬 UGenome Pipelines & Reports</b>  
-ETL + QC + patient-safe analytics for genomics  
+<b>🩺 Smart Health Analytics</b>  
+ETL + QC + patient-safe analytics for healthcare intelligence  
 <code>Python · Pandas · SQL · Azure DevOps · Streamlit</code>  
 <a href="https://github.com/samruddhi2204/ugenome-analytics">github.com/samruddhi2204/ugenome-analytics</a>
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzg1bTB5cWt2MGx1cTlndXZhanZ5OTI3cTl3dzBiMzd6dnZseWttdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O5YEgIWPd2TlR6NHfg/100.webp" width="200" alt="ugenome gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzg1bTB5cWt2MGx1cTlndXZhanZ5OTI3cTl3dzBiMzd6dnZseWttdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O5YEgIWPd2TlR6NHfg/100.webp" width="220" alt="smart health analytics gif"/>
 </td>
 </tr>
 </table>
@@ -86,7 +90,7 @@ End-to-end clustering and CLV models for marketing analytics
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWN6dWc1NXM3bmNjNG9zZHBydmlhMGtzOHRzcDJlcG5rbXJnZGp3OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KbV4cctCmFfK8/giphy.webp" width="200" alt="retail gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWN6dWc1NXM3bmNjNG9zZHBydmlhMGtzOHRzcDJlcG5rbXJnZGp3OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KbV4cctCmFfK8/giphy.webp" width="220" alt="retail gif"/>
 </td>
 </tr>
 </table>
@@ -103,13 +107,14 @@ Multi-tenant Streamlit app with automated role-based dashboards
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/5la8PeBorczY1XUPjn/giphy.gif" width="200" alt="ops dashboard gif"/>
+  <img src="https://media.giphy.com/media/5la8PeBorczY1XUPjn/giphy.gif" width="220" alt="ops dashboard gif"/>
 </td>
 </tr>
 </table>
 
 ---
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvZTE3ZGU5dnN4NWJtNTV2MHh1YWVrdHA1c2FmMjUzdzRldDEyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8L0Pky6C83SzkzU55a/giphy.gif" width="260" alt="404 error funny gif"/>
-</p>
+<!-- 🌸 Soft Pastel Single 404 (Elegant Fade) -->
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvZTE3ZGU5dnN4NWJtNTV2MHh1YWVrdHA1c2FmMjUzdzRldDEyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8L0Pky6C83SzkzU55a/giphy.gif" width="120" style="opacity:0.85;" alt="404 pastel error"/>
+</div>
