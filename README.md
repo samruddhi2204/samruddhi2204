@@ -17,32 +17,42 @@
 
 ---
 
-### 🎠 My current playground
-🩺 **Healthcare analytics** — revenue-cycle KPIs, billing visibility, cash-flow signals.  
-🛍️ **E-commerce insights** — segmentation, churn, demand patterns.  
-🧵 **Fashion-tech** — merging creativity with consumer data storytelling.  
-💻 **Software engineering** — Streamlit apps, APIs, and automation on Azure.
+<h3 align="center">
+  <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af" width="50">
+  A Peek Into My World
+  <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af" width="50">
+</h3>
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhtZDQ3OGV1M3gxMTlrM3I3aXViMnhnOTE3ZXg1NDZtNGJka2p6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e9BUxDjZUk6dZeicZl/200w.webp" width="240" alt="divider"/>
-</p>
+<div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OGF2dncwZDI4cDQ1bnp2cWVrMzMzbjZtd2g2aDFkeGYxZThrZjY0NiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/200.webp" width="40">  
+**I turn raw data into beautiful insights.**  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhkY240Y3l2dGxma21ybGhvcHI0ajg0bWgydXN5YmthaHVodW1tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AGGz7y0rCYxdS/giphy.gif" width="60">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9rNzU3NjFpYWVtZjFtZDJjcmFzYWZ4eDE5NXZ2bWt2ZXdqNnN6NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9HbR5gGJifwDMJB8BH/200w.webp" width="40">  
+**Analytics by day, art by heart — fashion, visuals, stories.**  
+<img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWF0emEwdmFzZjJ2dG1lMHZmNWhieWJ6MWs2NDA0OWs4b2p6aWI5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/200w.webp" width="60">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhtZDQ3OGV1M3gxMTlrM3I3aXViMnhnOTE3ZXg1NDZtNGJka2p6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e9BUxDjZUk6dZeicZl/200w.webp" width="40">  
+**Forever curious — learning, building, refining.**  
+<img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDdwcjNlNnA0eGZmeTMyYWl1M2J4a3k0aTNneHZia3lsYmdwMGJhaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduUI3xVUouoQjn2/200w.webp" width="60">
+
+<br>
+</div>
 
 ---
 
-### ⚙️ Core stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,postgres,mysql,docker,git,azure,aws&perline=11" /><br/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sixsigma/sixsigma-original.svg"/>
-</p>
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,postgres,mysql,docker,git,azure,aws&perline=10" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=pandas,streamlit,figma,vscode,github,jira,excel,powerbi" />
+</div>
 
 ---
 
-### 🪄 Featured projects
+### 🪄 Featured Projects
 - **UGenome Pipelines & Reports** — ETL + QC + patient-safe analytics for genomics  
   `Python · Pandas · SQL · Azure DevOps · Streamlit`  
   [github.com/samruddhi2204/ugenome-analytics](https://github.com/samruddhi2204/ugenome-analytics)
@@ -57,7 +67,7 @@
 
 ---
 
-### ☕ Say hi
+### ☕ Say Hi
 <p align="center">
   <a href="mailto:samruddhi2204@gmail.com"><img src="https://img.shields.io/badge/Email_me-FFC0CB?style=for-the-badge&logo=minutemailer&logoColor=000"/></a>
 </p>
