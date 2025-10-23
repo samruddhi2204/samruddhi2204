@@ -1,5 +1,7 @@
 <!-- 🌸 Samruddhi Wasnik – Final Soft Blush Edition GitHub README -->
 
+<!-- 💖 Intro with Blush Pink Glow -->
+
 <div align="center">
 
 <table width="100%" style="border:none;">
@@ -7,10 +9,12 @@
 <td width="40%" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTh1a2wwODB3N2U3eDduYzJ5ZXRrbHphNGRuMDNtdHB5M245cXBjNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.webp" width="260" alt="girl working laptop aesthetic"/>
 </td>
-
 <td width="60%" align="center" valign="middle">
-  <h1 style="font-family:'Brush Script MT',cursive;font-size:50px;color:#F8BBD0;text-align:center;margin:0;text-shadow:0 0 15px rgba(248,187,208,0.9),0 0 25px rgba(248,187,208,0.6);">
-    Hello, I'm Sam
+  <h1 style="font-family:'Brush Script MT', cursive; font-size:50px; color:#F4BBD0; text-shadow:0 0 10px #F4BBD0, 0 0 20px #F4BBD0, 0 0 30px #F4BBD0;">Hello, I'm Sam!</h1>
+
+
+</div>
+
   </h1>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Plus+Jakarta+Sans&size=24&duration=4500&pause=800&color=E8A0BF&center=true&vCenter=true&width=720&lines=Data-driven+%7C+Design-minded+%7C+Always+curious;Turning+raw+data+into+stories+that+matter;Bridging+tech,+analytics,+and+fashion-tech+to+create+impact" />
 </td>
