@@ -1,8 +1,8 @@
 <!-- 🌸 Balanced Chic GitHub Profile for Samruddhi -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdmMTQ1MGVjYzQ0NjM1NmZlNGIxZTc3YjliN2M4Y2FjNjJhMTc4YSZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="120" height="120" alt="girl shopping"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1ODlmOTY5NjMyMjA2NzZkNTM0MjE0MjBhYzgxYWRhZWNmOGJhMSZjdD1n/S3Ot3hZ5bGxR2/giphy.gif" width="120" height="120" alt="girl coding"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2EwOGI5MWZiMmI4NTA5YWY3OGY2ZjM4ZWRjY2U1YmM5YTIzOGE4MyZjdD1n/U2nN0ridM4lXy/giphy.gif" width="120" height="120" alt="horse riding"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhkY240Y3l2dGxma21ybGhvcHI0ajg0bWgydXN5YmthaHVodW1tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AGGz7y0rCYxdS/giphy.gif" width="130" height="130" alt="fashion gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDdwcjNlNnA0eGZmeTMyYWl1M2J4a3k0aTNneHZia3lsYmdwMGJhaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEduUI3xVUouoQjn2/200w.webp" width="130" height="130" alt="coding girl gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9rNzU3NjFpYWVtZjFtZDJjcmFzYWZ4eDE5NXZ2bWt2ZXdqNnN6NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9HbR5gGJifwDMJB8BH/200w.webp" width="130" height="130" alt="horse riding aesthetic"/>
 </p>
 
 <h1 align="center">Hi, I'm Sam 👋</h1>
@@ -19,6 +19,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://giphy.com/gifs/tea-baking-donuts-og7NGYFkgdHSc9vO9J" width="220" alt="divider aesthetic"/>
+</p>
+
 ### 🎠 My current playground
 🩺 Healthcare analytics — tracking revenue-cycle KPIs, improving billing visibility, and forecasting cash flow.  
 🛍️ E-commerce insights — analyzing customer behavior, segmentation, and churn patterns.  
@@ -26,7 +30,7 @@
 💻 Software engineering — building Streamlit apps, automation tools, and backend logic on Azure.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFhMzBiNzMzYTYxNDZmNjQ4MzQ4ZWJkNDM1ODU3MDcyZDNhODgzOSZjdD1n/11sBLVxNs7v6WA/giphy.gif" width="260" alt="divider hearts"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhtZDQ3OGV1M3gxMTlrM3I3aXViMnhnOTE3ZXg1NDZtNGJka2p6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/e9BUxDjZUk6dZeicZl/200w.webp" width="240" alt="divider aesthetic"/>
 </p>
 
 ---
@@ -44,9 +48,9 @@
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"/>
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"/>
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sixsigma/sixsigma-original.svg"/>
 </p>
 
@@ -74,5 +78,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE0NjZmZjE2ZmE2N2NiOTU0ZjQxMjgwMWQ2NGM0Mjc4NmRjZWM2MCZjdD1n/13borq7Zo2kulO/giphy.gif" width="300" alt="girl coding laptop aesthetic"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWF0emEwdmFzZjJ2dG1lMHZmNWhieWJ6MWs2NDA0OWs4b2p6aWI5bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/200w.webp" width="280" alt="cute outro aesthetic"/>
 </p>
