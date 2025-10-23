@@ -39,14 +39,22 @@
 
 <h2 align="center">🛠 Languages • Frameworks • Tools 🛠</h2>
 
-<div align="center">
+<table align="center" style="border:none;">
+<tr>
+<td width="70%" align="center">
 
+<!-- ✅ 6-per-row layout -->
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express&perline=6" width="400"/><br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,docker,git&perline=6" width="400"/><br>
 <img src="https://skillicons.dev/icons?i=github,streamlit,flask,fastapi,pandas,html&perline=6" width="400"/><br>
 <img src="https://skillicons.dev/icons?i=css,figma,vscode,powerbi,excel,jira&perline=6" width="400"/>
 
-</div>
+</td>
+<td width="30%" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cG81YnZxYzl3bDZ2bXo4cjZ5cGt5aDRvY2l2YXpvamp5ZzNzNXZ6MSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Y0b2MpUTfnrUa3jIM7/giphy.webp" width="200" alt="to-do list gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
