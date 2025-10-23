@@ -1,6 +1,6 @@
 <!-- top banner — upload your own to assets/banner.gif or assets/banner.png -->
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="hi, i'm samruddhi — tech · analytics · fashion-tech"/>
+  <img src="assets/banner.gif" width="100%" alt="Hi, I'm Sam — tech · analytics · fashion-tech"/>
 </p>
 
 <h1 align="center">hey, i'm samruddhi 👋</h1>
@@ -17,7 +17,7 @@
 
 ---
 
-### what i’m building
+### What I’m building
 🩺 healthcare analytics (rev-cycle KPIs, billing visibility, better cash-flow signals)  
 🛍️ e-commerce insights (segments, churn, demand patterns)  
 🧵 fashion-tech curiosity (consumer taste + data storytelling)  
