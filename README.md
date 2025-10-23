@@ -1,15 +1,12 @@
-<!-- 🌸 Samruddhi Wasnik – GitHub Profile README (Black background + blush pink glow) -->
+<!-- 🌸 Samruddhi Wasnik – GitHub Profile README (final clean version) -->
 
 <div align="center">
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-    <!-- 👩🏻‍💻 Left side image -->
     <td width="40%" align="center" valign="middle">
       <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTh1a2wwODB3N2U3eDduYzJ5ZXRrbHphNGRuMDNtdHB5M245cXBjNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/S9RnJWRWoiRZlHgaHa/giphy.webp" width="260" alt="girl working laptop aesthetic"/>
     </td>
-
-    <!-- ✨ Glowing pink text from hello-sam.svg -->
     <td width="60%" align="center" valign="middle">
       <img src="./hello-sam.svg" alt="Hello, I'm Sam!" width="520">
     </td>
@@ -18,7 +15,6 @@
 
 <br>
 
-<!-- Typing animation -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Plus+Jakarta+Sans&size=22&duration=4500&pause=800&color=E8A0BF&center=true&vCenter=true&width=720&lines=Data-driven+%7C+Design-minded+%7C+Always+curious;Turning+raw+data+into+stories+that+matter;Bridging+tech,+analytics,+and+fashion-tech+to+create+impact" alt="typing banner"/>
 
 </div>
@@ -43,22 +39,14 @@
 
 <h2 align="center">🛠 Languages • Frameworks • Tools 🛠</h2>
 
-<table align="center" style="border:none;">
-  <tr>
-    <td width="70%" align="center">
+<div align="center">
 
-      <!-- ✅ 6-per-row layout -->
-      <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express&perline=6" width="400" alt="skills row 1"/><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,docker,git&perline=6" width="400" alt="skills row 2"/><br>
-      <img src="https://skillicons.dev/icons?i=github,streamlit,flask,fastapi,pandas,html&perline=6" width="400" alt="skills row 3"/><br>
-      <img src="https://skillicons.dev/icons?i=css,figma,vscode,powerbi,excel,jira&perline=6" width="400" alt="skills row 4"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express&perline=6" width="400"/><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,docker,git&perline=6" width="400"/><br>
+<img src="https://skillicons.dev/icons?i=github,streamlit,flask,fastapi,pandas,html&perline=6" width="400"/><br>
+<img src="https://skillicons.dev/icons?i=css,figma,vscode,powerbi,excel,jira&perline=6" width="400"/>
 
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cG81YnZxYzl3bDZ2bXo4cjZ5cGt5aDRvY2l2YXpvamp5ZzNzNXZ6MSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Y0b2MpUTfnrUa3jIM7/giphy.webp" width="200" alt="to-do list gif"/>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
@@ -66,7 +54,6 @@
 
 <table align="center" width="100%" style="border-collapse:collapse;table-layout:fixed;margin-bottom:0;">
 
-  <!-- SMART HEALTH -->
   <tr>
     <td width="70%" valign="middle" style="vertical-align:middle;">
       <b>🩺 Smart Health Analytics</b><br>
@@ -79,7 +66,6 @@
     </td>
   </tr>
 
-  <!-- RETAIL -->
   <tr>
     <td width="70%" valign="middle" style="vertical-align:middle;padding-top:20px;">
       <b>🛍 Retail Customer Segmentation</b><br>
@@ -92,7 +78,6 @@
     </td>
   </tr>
 
-  <!-- OPS -->
   <tr>
     <td width="70%" valign="middle" style="vertical-align:middle;padding-top:20px;">
       <b>☁️ Ops Dashboard as a Service</b><br>
@@ -109,7 +94,6 @@
 
 ---
 
-<!-- 🌸 Soft Pastel 404 -->
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvZTE3ZGU5dnN4NWJtNTV2MHh1YWVrdHA1c2FmMjUzdzRldDEyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8L0Pky6C83SzkzU55a/giphy.gif" width="110" alt="404 error pastel gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvZTE3ZGU5dnN4NWJtNTV2MHh1YWVrdHA1c2FmMjUzdzRldDEyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8L0Pky6C83SzkzU55a/giphy.gif" width="110" alt="404 pastel gif"/>
 </div>
