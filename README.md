@@ -1,4 +1,4 @@
-<!-- 🌸 Samruddhi Wasnik – GitHub Profile README (final clean version) -->
+<!-- 🌸 Samruddhi Wasnik -->
 
 <div align="center">
 
@@ -19,12 +19,14 @@
 
 </div>
 
----
+
 
 <h3 align="center">
-  <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af" width="45" alt="">
-  A Peek Into My World
-  <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af" width="45" alt="">
+  <font color="#8CCAF7" size="6">
+    <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af" width="45" alt="">
+    A Peek Into My World
+    <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af" width="45" alt="">
+  </font>
 </h3>
 
 <p align="center"><b>I turn raw data into beautiful insights.</b></p>
@@ -35,15 +37,15 @@
   <img src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif" width="160" alt="when my code finally works minions"/>
 </p>
 
----
 
-<h2 align="center">🛠 Languages • Frameworks • Tools 🛠</h2>
+<h2 align="center">
+  <font color="#B68973">🛠 Languages • Frameworks • Tools 🛠</font>
+</h2>
 
 <table align="center" style="border:none;">
 <tr>
 <td width="70%" align="center">
 
-<!-- ✅ 6-per-row layout -->
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express&perline=6" width="400"/><br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,docker,git&perline=6" width="400"/><br>
 <img src="https://skillicons.dev/icons?i=github,streamlit,flask,fastapi,pandas,html&perline=6" width="400"/><br>
@@ -56,9 +58,11 @@
 </tr>
 </table>
 
----
 
-<h2 align="left">🚀 Projects</h2>
+
+<h2 align="left">
+  <font color="#F08080">🚀 Projects</font>
+</h2>
 
 <table align="center" width="100%" style="border-collapse:collapse;table-layout:fixed;margin-bottom:0;">
 
@@ -100,11 +104,10 @@
 
 </table>
 
----
+
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvZTE3ZGU5dnN4NWJtNTV2MHh1YWVrdHA1c2FmMjUzdzRldDEyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8L0Pky6C83SzkzU55a/giphy.gif" width="110" alt="404 pastel gif"/>
 </div>
-
-
-
+<!-- ✨ Dots Divider -->
+<p align="center">🌸 • ✨ • 🌙 • 💫 • 🌸</p>
