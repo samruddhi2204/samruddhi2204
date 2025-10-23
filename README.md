@@ -1,6 +1,5 @@
-<!-- 🌸 Samruddhi Wasnik – Polished GitHub README -->
+<!-- 🌸 Samruddhi Wasnik – Final Polished GitHub README -->
 
-<!-- 🩷 Opening section -->
 <div align="center">
 
 <table>
@@ -10,7 +9,7 @@
 </td>
 <td width="60%" align="center">
   <h1 style="font-family:'Brush Script MT',cursive;font-size:40px;color:#F4BBD0;">Hello, I'm Sam</h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Plus+Jakarta+Sans&size=22&duration=4500&pause=800&color=E8A0BF&center=false&vCenter=true&width=650&lines=Data-driven+%7C+Design-minded+%7C+Always+curious;Turning+raw+data+into+stories+that+matter;Bridging+tech,+analytics,+and+fashion-tech+to+create+impact" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Plus+Jakarta+Sans&size=22&duration=4500&pause=800&color=E8A0BF&center=false&vCenter=true&width=680&lines=Data-driven+%7C+Design-minded+%7C+Always+curious;Turning+raw+data+into+stories+that+matter;Bridging+tech,+analytics,+and+fashion-tech+to+create+impact" />
 </td>
 </tr>
 </table>
@@ -37,14 +36,15 @@
 
 <h2 align="left">⚒️ Languages · Frameworks · Tools</h2>
 
-<table align="center" style="border: none;">
+<table align="center" style="border:none;">
 <tr>
 <td width="70%" align="left">
 
-<!-- ✅ Organized stack: 3 rows × 6 icons -->
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mysql&perline=6" /><br>
-<img src="https://skillicons.dev/icons?i=azure,aws,postgres,docker,git,github&perline=6" /><br>
-<img src="https://skillicons.dev/icons?i=streamlit,flask,fastapi,pandas,powerbi,excel&perline=6" /><br>
+<!-- ✅ Full stack: 24 tools, 4 rows × 6 icons -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express&perline=6" /><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,azure,aws,docker,git&perline=6" /><br>
+<img src="https://skillicons.dev/icons?i=github,streamlit,flask,fastapi,pandas,html&perline=6" /><br>
+<img src="https://skillicons.dev/icons?i=css,figma,vscode,powerbi,excel,jira&perline=6" />
 
 </td>
 <td width="30%" align="center">
@@ -69,12 +69,12 @@ ETL + QC + patient-safe analytics for genomics
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzg1bTB5cWt2MGx1cTlndXZhanZ5OTI3cTl3dzBiMzd6dnZseWttdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O5YEgIWPd2TlR6NHfg/100.webp" width="160" alt="ugenome gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzg1bTB5cWt2MGx1cTlndXZhanZ5OTI3cTl3dzBiMzd6dnZseWttdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O5YEgIWPd2TlR6NHfg/100.webp" width="200" alt="ugenome gif"/>
 </td>
 </tr>
 </table>
 
-<!-- RETAIL CUSTOMER SEGMENTATION -->
+<!-- RETAIL -->
 <table align="center" width="100%" style="border:none;">
 <tr>
 <td width="70%" valign="top">
@@ -86,12 +86,12 @@ End-to-end clustering and CLV models for marketing analytics
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWN6dWc1NXM3bmNjNG9zZHBydmlhMGtzOHRzcDJlcG5rbXJnZGp3OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KbV4cctCmFfK8/giphy.webp" width="150" alt="retail gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWN6dWc1NXM3bmNjNG9zZHBydmlhMGtzOHRzcDJlcG5rbXJnZGp3OCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KbV4cctCmFfK8/giphy.webp" width="200" alt="retail gif"/>
 </td>
 </tr>
 </table>
 
-<!-- OPS DASHBOARD -->
+<!-- OPS -->
 <table align="center" width="100%" style="border:none;">
 <tr>
 <td width="70%" valign="top">
@@ -103,7 +103,7 @@ Multi-tenant Streamlit app with automated role-based dashboards
 
 </td>
 <td width="30%" align="center">
-  <img src="https://media.giphy.com/media/5la8PeBorczY1XUPjn/giphy.gif" width="140" alt="ops dashboard gif"/>
+  <img src="https://media.giphy.com/media/5la8PeBorczY1XUPjn/giphy.gif" width="200" alt="ops dashboard gif"/>
 </td>
 </tr>
 </table>
