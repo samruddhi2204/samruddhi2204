@@ -1,0 +1,34 @@
+<!-- hello-sam.svg | blush pink glow text on black background -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140">
+  <defs>
+    <!-- Soft pink glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .bg {
+        fill: #000000; /* solid black background */
+      }
+      .title {
+        font-family: "Brush Script MT", "Segoe Script", "Segoe UI", system-ui, -apple-system, sans-serif;
+        font-size: 64px;
+        fill: #F4BBD0; /* blush pink */
+      }
+    </style>
+  </defs>
+
+  <!-- Black background -->
+  <rect class="bg" width="100%" height="100%"/>
+
+  <!-- Centered glowing text -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="title" filter="url(#glow)">
+    Hello, I'm Sam!
+  </text>
+</svg>
