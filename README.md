@@ -19,14 +19,15 @@
 
 </div>
 
-
-
+<!-- 🌸 A Peek Into My World (light blue) -->
 <h3 align="center">
-  <font color="#8CCAF7" size="6">
-    <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af" width="45" alt="">
+  <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af"
+       width="45" alt="emoji left" style="vertical-align:middle; margin-right:10px;">
+  <span style="color:#8CCAF7; font-size:26px; font-weight:700; vertical-align:middle;">
     A Peek Into My World
-    <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af" width="45" alt="">
-  </font>
+  </span>
+  <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af"
+       width="45" alt="emoji right" style="vertical-align:middle; margin-left:10px;">
 </h3>
 
 <p align="center"><b>I turn raw data into beautiful insights.</b></p>
@@ -37,9 +38,11 @@
   <img src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif" width="160" alt="when my code finally works minions"/>
 </p>
 
-
+<!-- 🛠 Languages • Frameworks • Tools (light brown) -->
 <h2 align="center">
-  <font color="#B68973">🛠 Languages • Frameworks • Tools 🛠</font>
+  <span style="font-size:24px; color:#B68973;">
+    🛠 &nbsp; Languages • Frameworks • Tools &nbsp; 🛠
+  </span>
 </h2>
 
 <table align="center" style="border:none;">
@@ -58,10 +61,9 @@
 </tr>
 </table>
 
-
-
-<h2 align="left">
-  <font color="#F08080">🚀 Projects</font>
+<!-- 🚀 Projects (light red) -->
+<h2 align="center">
+  <span style="font-size:24px; color:#F08080;">🚀 Projects 🚀</span>
 </h2>
 
 <table align="center" width="100%" style="border-collapse:collapse;table-layout:fixed;margin-bottom:0;">
@@ -104,10 +106,9 @@
 
 </table>
 
-
-
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJvZTE3ZGU5dnN4NWJtNTV2MHh1YWVrdHA1c2FmMjUzdzRldDEyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8L0Pky6C83SzkzU55a/giphy.gif" width="110" alt="404 pastel gif"/>
 </div>
+
 <!-- ✨ Dots Divider -->
 <p align="center">🌸 • ✨ • 🌙 • 💫 • 🌸</p>
