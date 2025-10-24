@@ -19,12 +19,12 @@
 
 </div>
 
-<!-- 🌸 A Peek Into My World (light blue) -->
+<!-- 🌸 A Peek Into My World  -->
 <h3 align="center">
   <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af"
        width="45" alt="emoji left" style="vertical-align:middle; margin-right:10px;">
   <span style="color:#8CCAF7; font-size:26px; font-weight:700; vertical-align:middle;">
-    A Peek Into My World
+    A PEEK INTO MY WORLD
   </span>
   <img src="https://github.com/harshjuly12/harshjuly12/assets/112745312/39f604ab-0928-453b-b8af-ee382fdb48af"
        width="45" alt="emoji right" style="vertical-align:middle; margin-left:10px;">
@@ -38,12 +38,13 @@
   <img src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif" width="160" alt="when my code finally works minions"/>
 </p>
 
-<!-- 🛠 Languages • Frameworks • Tools (light brown) -->
-<h2 align="center">
-  <span style="font-size:24px; color:#B68973;">
-    🛠 &nbsp; Languages • Frameworks • Tools &nbsp; 🛠
-  </span>
-</h2>
+<!-- 🛠 Languages • Frameworks • Tools  -->
+
+<p align="center" style="font-size:36px; font-weight:900; letter-spacing:1.5px; margin-top:45px;">
+  <span style="color:#B68973;">🛠 LANGUAGES • FRAMEWORKS • TOOLS 🛠</span>
+</p>
+
+
 
 <table align="center" style="border:none;">
 <tr>
@@ -61,10 +62,15 @@
 </tr>
 </table>
 
-<!-- 🚀 Projects (light red) -->
-<h2 align="center">
-  <span style="font-size:24px; color:#F08080;">🚀 Projects 🚀</span>
-</h2>
+<!-- 🚀 Projects  -->
+
+<p align="center" style="font-size:36px; font-weight:900; letter-spacing:1.5px; margin-top:45px;">
+  <span style="color:#F08080;">🚀 PROJECTS 🚀</span>
+</p>
+
+
+
+
 
 <table align="center" width="100%" style="border-collapse:collapse;table-layout:fixed;margin-bottom:0;">
 
